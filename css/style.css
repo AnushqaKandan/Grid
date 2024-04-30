@@ -1,0 +1,22 @@
+*,
+*,
+*::after,
+*::before {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    text-align: center;
+    color: brown;
+}
+
+.container{
+    border: 5px solid;
+    border-color:darkorchid;
+    width: 900px;
+    margin-block: 12px;
+    margin-inline: auto;
+}
+
